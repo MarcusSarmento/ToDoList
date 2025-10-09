@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    flex-direction: column;
+}
+
+body{
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
